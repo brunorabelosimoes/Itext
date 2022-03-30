@@ -6,7 +6,7 @@ import com.itextpdf.layout.element.Table;
 
 import java.io.IOException;
 
-public class Main {
+public class TableUsingArray {
 
     public static void main(String[] args) throws IOException {
         String path = "D:\\Bruno\\Documents\\Projetos Automação\\ItextExample\\PDF\\Table.pdf";
